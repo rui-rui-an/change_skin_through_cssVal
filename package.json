@@ -9,9 +9,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "css-vars-ponyfill": "^2.4.8",
+    "echarts": "^5.3.3",
+    "element-ui": "^2.15.9",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
-    "vuex": "^3.4.0"
+    "vuex": "^3.4.0",
+    "vuex-persistedstate": "^4.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.8",
